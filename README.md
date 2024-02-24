@@ -1,4 +1,4 @@
-Information about github repo
+Information about github repo.
 My first repository on GitHub.
 GitHub allows you to create, store, change, merge, and collaborate on files or code.
 ![images](https://github.com/Oluwafimi/this-is-my-first-project/assets/128043468/0a8a5b9d-d051-408b-8690-240da4be86d9)
